@@ -5,4 +5,4 @@ on:
 permissions: {}
 jobs:
   release-please:
-    uses: JacobPEvans/.github/.github/workflows/_release-please.yml@main
+    uses: JacobPEvans-personal/.github/.github/workflows/_release-please.yml@main
