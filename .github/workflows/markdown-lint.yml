@@ -9,4 +9,4 @@ permissions:
   contents: read
 jobs:
   lint:
-    uses: JacobPEvans-personal/.github/.github/workflows/_markdown-lint.yml@main
+    uses: dryvist/.github/.github/workflows/_markdown-lint.yml@main
