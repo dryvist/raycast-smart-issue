@@ -1,4 +1,12 @@
-// Markdownlint configuration
+// Canonical source: dryvist/.github/configs/.markdownlint-cli2.yaml
+// (the org-wide markdownlint canon).
+//
+// Deliberate divergences from canon:
+//   - MD060 disabled (canon keeps it on).
+//   - MD013 sets only line_length 160; canon also sets tables: true and
+//     strict: true.
+//   - No CHANGELOG.md ignore (canon ignores it; the hub workflow's globs
+//     already exclude CHANGELOG.md).
 {
   "config": {
     "default": true,
