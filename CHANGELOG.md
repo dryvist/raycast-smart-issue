@@ -1,5 +1,12 @@
 # Smart Issue Creator Changelog
 
+## [0.2.1](https://github.com/dryvist/raycast-smart-issue/compare/v0.2.0...v0.2.1) (2026-06-12)
+
+
+### Bug Fixes
+
+* **ci:** repoint markdown-lint to dryvist/.github hub ([#36](https://github.com/dryvist/raycast-smart-issue/issues/36)) ([f4fc336](https://github.com/dryvist/raycast-smart-issue/commit/f4fc33694e0d6058aa860fcc15bfb14b0f9ccf79))
+
 ## [0.2.0](https://github.com/dryvist/raycast-smart-issue/compare/v0.1.0...v0.2.0) (2026-06-01)
 
 
