@@ -62,3 +62,7 @@ Open Raycast preferences for Smart Issue Creator and set:
 - Start your idea with conventional commit prefixes: `feat:`, `fix:`, `docs:`, etc. — the AI will map them to labels
 - Include hints like `size:s` or `priority:high` in your idea text
 - The last selected repo and label choices are remembered across runs
+
+---
+
+> Part of a [larger ecosystem of ~40 repos](https://docs.jacobpevans.com) — see how it all fits together.
