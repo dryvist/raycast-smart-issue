@@ -1,5 +1,12 @@
 # Smart Issue Creator Changelog
 
+## [0.2.2](https://github.com/dryvist/raycast-smart-issue/compare/v0.2.1...v0.2.2) (2026-10-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @raycast/api to v2 ([#59](https://github.com/dryvist/raycast-smart-issue/issues/59)) ([c8edc4c](https://github.com/dryvist/raycast-smart-issue/commit/c8edc4ccdebe4e6f404f15ceec118ae8bd44ade2))
+
 ## [0.2.1](https://github.com/dryvist/raycast-smart-issue/compare/v0.2.0...v0.2.1) (2026-06-12)
 
 
