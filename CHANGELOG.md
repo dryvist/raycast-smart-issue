@@ -1,5 +1,12 @@
 # Smart Issue Creator Changelog
 
+## [0.2.3](https://github.com/dryvist/raycast-smart-issue/compare/v0.2.2...v0.2.3) (2026-10-24)
+
+
+### Bug Fixes
+
+* **deps:** enforce seven-day Bun release age ([#78](https://github.com/dryvist/raycast-smart-issue/issues/78)) ([0c25860](https://github.com/dryvist/raycast-smart-issue/commit/0c258608de580347c2e6fc7e3557c3deffb33415))
+
 ## [0.2.2](https://github.com/dryvist/raycast-smart-issue/compare/v0.2.1...v0.2.2) (2026-10-02)
 
 
